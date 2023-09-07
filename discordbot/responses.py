@@ -25,4 +25,4 @@ def get_response(message: str) -> str:
         return '`No te voy ayudar hasta que leo haga un penta kill #sad.`'
     
 
-    return 'I didnt understand what you wrote fucking noob, btw Leo esta cocinando ahora. Try typing !help".'
+    return 'I didnt understand what you wrote, btw Leo esta cocinando ahora. Try typing !help".'
